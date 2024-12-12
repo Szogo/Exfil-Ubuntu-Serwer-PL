@@ -1,5 +1,10 @@
 ![image](https://github.com/user-attachments/assets/490f33d6-edc5-4214-9177-3fcca5f71407)
 
+Gra Steam :
+https://store.steampowered.com/app/860020/EXFIL/
+
+Oficjalny Discord :
+https://discord.gg/playexfil
 
 
 
@@ -34,5 +39,5 @@ Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartowa�
 
 Pliki CFG/Konfiguracja serwera jak nazwa opis admin itp  przykład /home/exfil/serwer/Exfil/Saved/ServerSettings
 
-
+Przykładowe pliki CFG :
 ![image](https://github.com/user-attachments/assets/6064cd8f-7d25-4655-b4b6-522c4895db44)
