@@ -32,4 +32,6 @@ Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartowa�
 
 
 Pliki CFG/Konfiguracja serwera jak nazwa opis admin itp  przykład /home/exfil/serwer/Exfil/Saved/ServerSettings
-exfil pliki cfg.jpg
+
+
+![image](https://github.com/user-attachments/assets/6064cd8f-7d25-4655-b4b6-522c4895db44)
