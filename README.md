@@ -1,3 +1,9 @@
+
+
+
+
+
+
 PL Linux  Ubuntu Jak Postawić Serwer.
 
 Na root zaktualizuj maszynę pod serwer Exfila
@@ -26,3 +32,4 @@ Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartowa�
 
 
 Pliki CFG/Konfiguracja serwera jak nazwa opis admin itp  przykład /home/exfil/serwer/Exfil/Saved/ServerSettings
+exfil pliki cfg.jpg
