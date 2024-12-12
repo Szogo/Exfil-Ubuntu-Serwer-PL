@@ -3,7 +3,7 @@
 Gra Steam :
 https://store.steampowered.com/app/860020/EXFIL/
 
-Oficjalny Discord :
+Oficjalny Discord Exfil :
 https://discord.gg/playexfil
 
 
@@ -41,3 +41,8 @@ Pliki CFG/Konfiguracja serwera jak nazwa opis admin itp  przykład /home/exfil/s
 
 Przykładowe pliki CFG :
 ![image](https://github.com/user-attachments/assets/6064cd8f-7d25-4655-b4b6-522c4895db44)
+
+Podanik By Szogo GL&HF
+Mój Discord :
+https://discord.gg/szogowaty
+Szogowaty YT / Szogo YT / Shogo_Boomer Twitch
