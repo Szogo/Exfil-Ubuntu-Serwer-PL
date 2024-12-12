@@ -28,7 +28,7 @@ Zalogój się na nowego użytkownika
 Użyj komendy steamcmd po zalogowaniu się na użytkownika w celu wywołania steam na linuxie do instalacji.
 
 w steamcmd wpisz :
-1.    komenda na wybór miejsca instalacji  force_install_dir /home/exfil/serwer  ///podjaj swoją lokalizacje instalacji
+1.    force_install_dir /home/exfil/serwer  ///podjaj swoją lokalizacje instalacji
 2.    login anonymous    ///logowanie się do steam, tutaj nic nie zmieniaj
 3.    app_update 3093190 validate   ///komenda na instalację serwera 
 4.    exit   ///wpisz po zainstalowaniu się serwera
