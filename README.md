@@ -3,8 +3,11 @@ PL Linux  Ubuntu Jak Postawić Serwer.
 Na root zaktualizuj maszynę pod serwer Exfila
 
 sudo add-apt-repository multiverse
+
 sudo dpkg --add-architecture i386
+
 sudo apt update
+
 sudo apt install steamcmd
 
 Następnie utwórz  nowego użytkownika  adduser nick/nazwa
