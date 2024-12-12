@@ -28,10 +28,10 @@ Zalogój się na nowego użytkownika
 Użyj komendy steamcmd po zalogowaniu się na użytkownika w celu wywołania steam na linuxie do instalacji.
 
 w steamcmd wpisz :
-1.    komenda na wybór miejsca instalacji  force_install_dir /home/exfil/serwer  podjaj swoją lokalizacje instalacji
-2.    login anonymous    logowanie się do steam, tutaj nic nie zmieniaj
-3.    app_update 3093190 validate   komenda na instalację serwera 
-4.    exit   wpisz po zainstalowaniu się serwera
+1.    komenda na wybór miejsca instalacji  force_install_dir /home/exfil/serwer  ///podjaj swoją lokalizacje instalacji
+2.    login anonymous    ///logowanie się do steam, tutaj nic nie zmieniaj
+3.    app_update 3093190 validate   ///komenda na instalację serwera 
+4.    exit   ///wpisz po zainstalowaniu się serwera
 
 Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartować 
 ./ExfilServer.sh -queryport=nr portu  "przykładowo  ./ExfilServer.sh -queryport=27015"
@@ -43,6 +43,9 @@ Przykładowe pliki CFG :
 ![image](https://github.com/user-attachments/assets/6064cd8f-7d25-4655-b4b6-522c4895db44)
 
 Podanik By Szogo GL&HF
+
 Mój Discord :
+
 https://discord.gg/szogowaty
+
 Szogowaty YT / Szogo YT / Shogo_Boomer Twitch
