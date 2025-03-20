@@ -30,11 +30,16 @@ Użyj komendy steamcmd po zalogowaniu się na użytkownika w celu wywołania ste
 w steamcmd wpisz :
 1.    force_install_dir /home/exfil/serwer  ///podjaj swoją lokalizacje instalacji
 2.    login anonymous    ///logowanie się do steam, tutaj nic nie zmieniaj
-3.    app_update 3093190 validate   ///komenda na instalację serwera 
-4.    exit   ///wpisz po zainstalowaniu się serwera
+3.    Normalny Serwer  app_update 3093190 validate   ///komenda na instalację serwera
+4.    Demo Serwer   app_update 3093190 -beta demo validate
+5.    exit   ///wpisz po zainstalowaniu się serwera
 
 Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartować 
 ./ExfilServer.sh -queryport=nr portu  "przykładowo  ./ExfilServer.sh -queryport=27015"
+
+Szybkie Komendy Na Instalacje 
+ Zwykły Serwer    steamcmd +force_install_dir some_install_directory +login anonymous +app_update 3093190 validate +quit
+ Demo Serwer      steamcmd +force_install_dir some_install_directory +login anonymous +app_update 3093190 -beta demo validate +quit  
 
 
 Pliki CFG/Konfiguracja serwera jak nazwa opis admin itp  przykład /home/exfil/serwer/Exfil/Saved/ServerSettings
