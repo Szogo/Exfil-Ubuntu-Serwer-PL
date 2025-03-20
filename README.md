@@ -38,6 +38,7 @@ Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartowa�
 ./ExfilServer.sh -queryport=nr portu  "przykładowo  ./ExfilServer.sh -queryport=27015"
 
 Szybkie Komendy Na Instalacje 
+ 
  Zwykły Serwer    steamcmd +force_install_dir some_install_directory +login anonymous +app_update 3093190 validate +quit
 
  Demo Serwer      steamcmd +force_install_dir some_install_directory +login anonymous +app_update 3093190 -beta demo validate +quit  
