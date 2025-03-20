@@ -30,8 +30,8 @@ Użyj komendy steamcmd po zalogowaniu się na użytkownika w celu wywołania ste
 w steamcmd wpisz :
 1.    force_install_dir /home/exfil/serwer  ///podjaj swoją lokalizacje instalacji
 2.    login anonymous    ///logowanie się do steam, tutaj nic nie zmieniaj
-3.    Normalny Serwer  app_update 3093190 validate   ///komenda na instalację serwera
-4.    Demo Serwer   app_update 3093190 -beta demo validate
+3.    Normalny Serwer//  app_update 3093190 validate   ///komenda na instalację serwera
+4.    Demo Serwer//   app_update 3093190 -beta demo validate
 5.    exit   ///wpisz po zainstalowaniu się serwera
 
 Udaj się do folderu gdzie zainstalowałeś serwer i możesz go już wystartować 
